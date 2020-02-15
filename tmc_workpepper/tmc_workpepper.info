@@ -1,0 +1,4 @@
+name = MOL Workpepper
+description = Connects to Workpepper oData interface
+package = TMC
+core = 7.x
