@@ -29,8 +29,8 @@ class WorkPepper {
 		
 		//can edit these at devel/variable
 		$this->url = variable_get('tmc_workpepper_url', 'https://molapi.workpepper.com/odata');
-		$this->username = variable_get('tmc_workpepper_username', 'workpepper');
-		$this->password = variable_get('tmc_workpepper_password', 'mPnncm4G');
+		$this->username = variable_get('tmc_workpepper_username', 'xxxxxx');
+		$this->password = variable_get('tmc_workpepper_password', 'xxxxxx');
 		
 		
 		/*
